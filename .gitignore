@@ -1,4 +1,5 @@
 *.exe
 input.txt
 output.txt
-output/
+output
+*.txt
